@@ -1,0 +1,4 @@
+ptymux
+*.o
+*.out
+*.log
